@@ -35,7 +35,7 @@ Anything already in the way (a real file/folder with the same name) is moved to 
 ## Setup on a new machine
 
 ```sh
-git clone git@github.com:Hy-Nguyen/hy-skills.git ~/Code/hy-skills
+git clone https://github.com/Hy-Nguyen/hy-skills.git ~/Code/hy-skills
 ~/Code/hy-skills/scripts/setup.sh
 ```
 
