@@ -17,6 +17,7 @@ scripts/setup.sh         # one-time setup: enables git hooks, runs sync
 | Skill | What it does | Needs |
 | --- | --- | --- |
 | [`cook`](skills/cook/SKILL.md) | `/cook <feature>` — orchestrated build: intent → grill → spec → waterfall implement → review → present | `agents/cook-*.md` |
+| [`ship`](skills/ship/SKILL.md) | `/ship [draft] [notes]` — commit current changes (branching off the default branch if needed), push, and open or update a PR | `gh` |
 
 ## How syncing works
 
